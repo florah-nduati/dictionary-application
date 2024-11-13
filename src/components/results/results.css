@@ -1,0 +1,28 @@
+.loading-message {
+    font-size: 18px;
+    color: blue;
+  }
+  
+  .error-message {
+    font-size: 18px;
+    color: red;
+  }
+  
+  .meaning-section {
+    margin-top: 20px;
+  }
+  
+  .part-of-speech {
+    font-weight: bold;
+    font-size: 16px;
+  }
+  
+  .definition-list {
+    list-style-type: disc;
+    margin-left: 20px;
+  }
+  
+  .definition-item {
+    margin-bottom: 5px;
+  }
+  

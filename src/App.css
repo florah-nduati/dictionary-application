@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #999;
+  margin: 5rem;
+}
+
+.header {
+  text-transform: uppercase;
+  text-align: center;
+  padding: 1rem;
+  color: blue;
+}
