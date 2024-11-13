@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import useWordParamStore from "../Stores/WordParam";
+import useWordParamStore from "../stores/WordParam";
 import "./search.css";
 
 function Search() {
