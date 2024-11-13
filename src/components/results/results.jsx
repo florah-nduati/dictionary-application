@@ -1,6 +1,6 @@
 import React from "react";
 import { useQuery } from "react-query";
-import useWordParamStore from "../Stores/WordParam";
+import useWordParamStore from "../stores/WordParam";
 import "./results.css";
 
 function Results() {
